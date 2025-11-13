@@ -15,13 +15,6 @@ Recomendado crear un entorno virtual e instalar:
 pip install numpy scipy matplotlib seaborn pandas
 ```
 
-## Uso
-Ejecuta cada script con:
-```
-python distribucion_binomial.py
-```
-Los scripts mostrarán las figuras al ejecutarse y no guardan archivos de imágenes.
 
-## Notas
-- No se incluye autor en los archivos; edítalos si deseas añadir detalles.
-- Los scripts están documentados y listos para integrarse en un repositorio GitHub.
+
+
